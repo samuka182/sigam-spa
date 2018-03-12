@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import {Navbar, Carousel} from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { withAuth } from '@okta/okta-react';

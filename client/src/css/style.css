@@ -420,3 +420,10 @@ ul.social-icons li a i {
     overflow: hidden;
   }
 }
+
+/* Log-in */
+.wrapper-page {
+  width: 380px;
+  margin: 140px auto 140px;
+  box-shadow: 0 -13px 75px 0 rgba(0, 0, 0, 0.16), 0 -12px 75px 0 rgba(0, 0, 0, 0.12);
+}
